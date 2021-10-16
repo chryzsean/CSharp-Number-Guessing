@@ -1,0 +1,15 @@
+C:\Users\Bry\source\repos\NumberGuessing\bin\Debug\net5.0\NumberGuessing.exe
+C:\Users\Bry\source\repos\NumberGuessing\bin\Debug\net5.0\NumberGuessing.deps.json
+C:\Users\Bry\source\repos\NumberGuessing\bin\Debug\net5.0\NumberGuessing.runtimeconfig.json
+C:\Users\Bry\source\repos\NumberGuessing\bin\Debug\net5.0\NumberGuessing.runtimeconfig.dev.json
+C:\Users\Bry\source\repos\NumberGuessing\bin\Debug\net5.0\NumberGuessing.dll
+C:\Users\Bry\source\repos\NumberGuessing\bin\Debug\net5.0\ref\NumberGuessing.dll
+C:\Users\Bry\source\repos\NumberGuessing\bin\Debug\net5.0\NumberGuessing.pdb
+C:\Users\Bry\source\repos\NumberGuessing\obj\Debug\net5.0\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bry\source\repos\NumberGuessing\obj\Debug\net5.0\NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\Bry\source\repos\NumberGuessing\obj\Debug\net5.0\NumberGuessing.AssemblyInfo.cs
+C:\Users\Bry\source\repos\NumberGuessing\obj\Debug\net5.0\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\Bry\source\repos\NumberGuessing\obj\Debug\net5.0\NumberGuessing.dll
+C:\Users\Bry\source\repos\NumberGuessing\obj\Debug\net5.0\ref\NumberGuessing.dll
+C:\Users\Bry\source\repos\NumberGuessing\obj\Debug\net5.0\NumberGuessing.pdb
+C:\Users\Bry\source\repos\NumberGuessing\obj\Debug\net5.0\NumberGuessing.genruntimeconfig.cache
